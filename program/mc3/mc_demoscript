@@ -1,0 +1,3 @@
+analyze data/gamigo_10_11 exact 3
+build data/gamigo_10_11 3
+random 10 range 10 11
