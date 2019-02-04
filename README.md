@@ -8,12 +8,12 @@ Die unten beschriebenen Befehle wurde bereits in diesem Repository ausgeführt, 
 
 ## Dependencies
 
-python3
-mxnet
-numpy
-pandas
-seaborn
-matplotlib
+- python3
+- mxnet
+- numpy
+- pandas
+- seaborn
+- matplotlib
 
 ## Beispieleingabe
 
